@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 👀 InfoSec, Machine Learning, Programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning React, Express, some sql
 - ⚡ Fun fact: Déjà vu is a glitch in the matrix 😉
 
